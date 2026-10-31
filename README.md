@@ -14,6 +14,8 @@
 
 离线试玩不需要 Node.js、Python、账号或 API。`index.html` 是自带全部代码和三张成图样例的完整单文件，可以单独转发。**GitHub 的文件预览不是游戏页面，请下载后打开。**
 
+需要在页面内调用 Image 为新场景转绘，请下载 Release 的 `*-full.zip` 或完整仓库，先读 [Image接入-队友先读.md](Image接入-队友先读.md)。完整包包含本机后端，但仍需自己的 Python、imagegen CLI、SDK 与认证；不是解压后零配置生成。
+
 ![实际作品界面](预览/作品页.png)
 
 ## 自己探索与成画
